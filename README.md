@@ -14,7 +14,7 @@
 - **XAI Module**: Explains decisions in plain language (`/explain` endpoint).  
 
 ## 📂 Repository Structure  
-/eve-x
+/eve-x <br>
 ├── /core/ # AI brain (models, inference) <br>
 ├── /protocols/ # gRPC, REST, MQTT configs <br>
 ├── /memory/ # Vector DBs & knowledge graphs <br>
