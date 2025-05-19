@@ -15,11 +15,11 @@
 
 ## 📂 Repository Structure  
 /eve-x
-├── /core/ # AI brain (models, inference)
-├── /protocols/ # gRPC, REST, MQTT configs
-├── /memory/ # Vector DBs & knowledge graphs
-├── /interfaces/ # Chat UI, voice handlers
-├── /data/ # Datasets & fine-tuning scripts
+├── /core/ # AI brain (models, inference) <br>
+├── /protocols/ # gRPC, REST, MQTT configs <br>
+├── /memory/ # Vector DBs & knowledge graphs <br>
+├── /interfaces/ # Chat UI, voice handlers <br>
+├── /data/ # Datasets & fine-tuning scripts <br>
 └── /batchfiles/ # Docker, Kubernetes, cloud configs
 
 
